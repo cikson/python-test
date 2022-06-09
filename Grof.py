@@ -2,6 +2,6 @@
 print("Hello, World!")
 x=2
 y=3
-Z=x+y
+Z="Grof je majmun "+x+y+" puta."
 print (Z)
 #Zašto?
