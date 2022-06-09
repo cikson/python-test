@@ -39,4 +39,4 @@ jobs:
       - name: Run a python program
         run: |
             chmod +x Grof.py
-            .\Grof.py
+            ./Grof.py
