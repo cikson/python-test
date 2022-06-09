@@ -37,3 +37,8 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    # Runs python program
+    - name: Run a python program
+      run: |
+            chmod +x Grof.py
+
