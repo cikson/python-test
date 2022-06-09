@@ -2,6 +2,9 @@
 print("Hello, World!")
 x=2
 y=3
-Z="Grof je majmun "+x+y+" puta."
-print (Z)
+z=x+y
+a="Grof je majmun "
+b=" puta."
+print (f'{a}{z}{b}')
 #Zašto?
+print("Koja je svrha ovoga?")
